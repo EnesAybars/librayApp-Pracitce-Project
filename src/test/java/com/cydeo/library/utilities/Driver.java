@@ -19,8 +19,6 @@ public class Driver {
 
     /* To change the language of the webDriver
 
-    // Could not find the Chromedriver.exe path. Check this out!
-
         System.setProperty("webdriver.chrome.driver","<PATH>/chromedriver.exe");
 
         System.setProperty("webdriver.chrome.driver", "C:\Users\ghs6kor\Desktop\Java\chromedriver.exe");

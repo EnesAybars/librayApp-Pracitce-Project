@@ -1,4 +1,4 @@
-@wip
+
 Feature: Data table task
 
   Scenario: Table columns names

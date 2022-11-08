@@ -1,4 +1,4 @@
-@wip
+
 Feature: Login with different Users TASK #6
   As a user, I should be able to login with different users using their
   correct emails and passwords. When I login, I should be able to
